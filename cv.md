@@ -49,3 +49,6 @@ function minValue(values){
 2. [Codecademy](https://www.codecademy.com/): Learn JavaScript, Learn HTML, Learn React, Learn React Router v6;
 3. [The Modern JavaScript Tutorial](https://learn.javascript.ru/) (in progress);
 4. [JS / Front-end Pre-school RU Course](https://rs.school/courses/javascript-preschool-ru) (in progress).
+
+## English
+A2 (Pre-Intermediate)
