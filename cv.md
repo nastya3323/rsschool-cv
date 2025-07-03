@@ -12,3 +12,12 @@ I am eager to create dynamic, responsive, and cross-browser interfaces and appli
 My goal is to build solutions that deliver value to both businesses and end-users.
 
 In the future, I see myself as a professional frontend developer who will contribute not only to business and user needs but also mentor aspiring specialists.
+
+## Hard Skills
+* HTML
+* CSS
+* SASS/SCSS
+* JavaScript
+* React (basic)
+* Git and GitHub
+* BEM
