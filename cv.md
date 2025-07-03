@@ -39,3 +39,13 @@ function minValue(values){
   return Number([...new Set(values)].sort((a, b) => a - b).join(""));
 }
 ```
+
+## Experience
+### Pet Projects
+1. [**Aim Training Game**](https://nastya3323.github.io/AIM-game/) (HTML, CSS, JavaScript)
+
+### Courses
+1. [HTML Academy simulators](https://htmlacademy.ru/);
+2. [Codecademy](https://www.codecademy.com/): Learn JavaScript, Learn HTML, Learn React, Learn React Router v6;
+3. [The Modern JavaScript Tutorial](https://learn.javascript.ru/) (in progress);
+4. [JS / Front-end Pre-school RU Course](https://rs.school/courses/javascript-preschool-ru) (in progress).
