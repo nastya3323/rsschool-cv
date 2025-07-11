@@ -63,6 +63,13 @@ body {
   padding: 20px 0;
 }
 
+.section {
+  border-bottom: 1px solid black;
+  width: calc((100% - 20px) / 2);
+  display: flex;
+  padding-bottom: 20px;
+}
+
 .section:not(:first-child) {
   flex-direction: column;
   gap: 15px;
@@ -104,4 +111,23 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+
+.code-block {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 13px;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) {
+  .section:first-child {
+    flex-wrap: wrap;
+  }
 }
