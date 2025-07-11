@@ -99,3 +99,9 @@ body {
 .section-link:hover {
   color: #078080;
 }
+
+.section-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
