@@ -29,6 +29,12 @@ body {
   padding: 0 15px;
 }
 
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
 .header {
   background-color: #abd1c6;
   padding: 30px 0;
@@ -51,4 +57,31 @@ body {
 
 .nav-link:hover {
   color: #078080;
+}
+
+.main {
+  padding: 20px 0;
+}
+
+.section:not(:first-child) {
+  flex-direction: column;
+  gap: 15px;
+}
+
+.section:first-child {
+  align-items: center;
+  gap: 30px;
+}
+
+.section-title {
+  font-size: 22px;
+  color: #098f88;
+
+  letter-spacing: 3px;
+  font-weight: 400;
+}
+
+.section-img {
+  width: 200px;
+  border-radius: 50%;
 }
