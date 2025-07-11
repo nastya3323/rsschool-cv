@@ -120,6 +120,10 @@ body {
   font-size: 13px;
 }
 
+.section-subtitle {
+  font-size: 20px;
+}
+
 @media (max-width: 768px) {
   .section {
     width: 100%;
