@@ -124,6 +124,26 @@ body {
   font-size: 20px;
 }
 
+.footer {
+  background-color: #abd1c6;
+  padding: 10px 0;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s;
+}
+
+.footer-link:hover {
+  color: #078080;
+}
+
 @media (max-width: 768px) {
   .section {
     width: 100%;
