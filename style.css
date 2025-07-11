@@ -85,3 +85,17 @@ body {
   width: 200px;
   border-radius: 50%;
 }
+
+.section-list {
+  padding-left: 18px;
+}
+
+.section-link {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.5s;
+}
+
+.section-link:hover {
+  color: #078080;
+}
